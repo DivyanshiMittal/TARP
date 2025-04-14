@@ -16,7 +16,7 @@ Transfer Learning: Incorporates transfer learning principles to improve detectio
 Evaluation Metrics: Uses metrics like F1-score and tandem decision cost function (t-DCF) for model evaluation.
 
 Dataset
-The project uses the ASVspoof 2019 dataset, a benchmark dataset for automatic speaker verification spoofing detection. It includes:
+The project uses the ASVspoof 2019 dataset (https://datashare.ed.ac.uk/handle/10283/853), a benchmark dataset for automatic speaker verification spoofing detection. It includes:
 
 Logical Access (LA) scenarios: Text-to-speech (TTS) and voice conversion (VC) attacks.
 
