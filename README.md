@@ -103,5 +103,3 @@ Muzaffar Ahmad Dar
 
 C.L. Biji
 
-License
-This project is licensed under the MIT License.
